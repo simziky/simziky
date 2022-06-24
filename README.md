@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=simziky&theme=gruvbox&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simziky&theme=dark)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=simziky&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
