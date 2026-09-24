@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simziky&theme=dark)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simziky)](https://github.com/simziky/github-readme-activity-graph)
